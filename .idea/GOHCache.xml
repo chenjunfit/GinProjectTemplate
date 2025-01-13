@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="MyCustomClaims">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/utils/jwt/jwt.go" />
+              <option value="file://$PROJECT_DIR$/utils/jwtutil/jwt.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ReturnData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/controllers/auth/auth.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736779841612" />
+              <option name="schema">
+                <list>
+                  <option value="ReturnData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/controllers/auth/auth.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736780262328" />
+              <option name="schema">
+                <list>
+                  <option value="UserInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736778473469" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/middlewares/auth/auth.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736780086978" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/routers/auth/auth.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736776928223" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/routers/router.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736775959425" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/jwt/jwt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736770875162" />
+              <option name="schema">
+                <list>
+                  <option value="MyCustomClaims" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/jwtutil/jwt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736772086928" />
+              <option name="schema">
+                <list>
+                  <option value="MyCustomClaims" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/logs/log.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736767060572" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/logs/logs.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1736767567426" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="my_custom_claims" value="MyCustomClaims" />
+        <entry key="return_data" value="ReturnData" />
+        <entry key="user_info" value="UserInfo" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1736431475855" />
+  </component>
+</project>
